@@ -4,6 +4,7 @@
 
 **Developer** — Go & Rust CLI tools, scrapers, bots, API glue.
 
+[![Portofolio](https://img.shields.io/badge/Portofolio-andraokta.xyz-2dd4bf?style=for-the-badge&logo=globe&logoColor=white)](https://andraokta.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-draokta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draokta)
 [![Email](https://img.shields.io/badge/Email-contact@andraokta.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@andraokta.xyz)
 
