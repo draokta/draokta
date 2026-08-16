@@ -4,13 +4,13 @@
 
 **Developer** — Go & Rust CLI tools, scrapers, bots, API glue.
 
-[![Portofolio](https://img.shields.io/badge/Portofolio-andraokta.xyz-2dd4bf?style=for-the-badge&logo=globe&logoColor=white)](https://andraokta.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-andraokta.xyz-2dd4bf?style=for-the-badge&logo=globe&logoColor=white)](https://andraokta.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-draokta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draokta)
 [![Email](https://img.shields.io/badge/Email-contact@andraokta.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@andraokta.xyz)
 
 </div>
 
-Developer yang kerja terminal-first: Go dan Rust untuk tool yang butuh cepat, Python saat harus kelar hari itu, TypeScript untuk bot dan web. Nyaman di Linux, Git, dan Cloudflare Workers.
+Developer who works terminal-first: Go and Rust for tools that need to be fast, Python when it needs to get done today, TypeScript for bots and web. Comfortable deep in Linux, Git, and Cloudflare Workers.
 
 ## 🛠 Stack
 
@@ -26,13 +26,13 @@ Developer yang kerja terminal-first: Go dan Rust untuk tool yang butuh cepat, Py
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📦 Proyek
+## 📦 Projects
 
-| Repo | Deskripsi | Bahasa |
-|------|-----------|--------|
-| [**fetchdown**](https://github.com/draokta/fetchdown) | CLI unduh release asset GitHub tanpa browser | Go |
-| [**scrapekit**](https://github.com/draokta/scrapekit) | Scraper ringan, rotating proxy, output JSON | Python |
-| [**llmgate**](https://github.com/draokta/llmgate) | Proxy API LLM dengan failover antar provider | Rust |
+| Repo | Description | Language |
+|------|-------------|----------|
+| [**fetchdown**](https://github.com/draokta/fetchdown) | CLI to download GitHub release assets without a browser | Go |
+| [**scrapekit**](https://github.com/draokta/scrapekit) | Lightweight scraper with rotating proxies, clean JSON output | Python |
+| [**llmgate**](https://github.com/draokta/llmgate) | LLM API proxy with failover across providers | Rust |
 
 ## 📊 Stats
 
@@ -47,6 +47,6 @@ Developer yang kerja terminal-first: Go dan Rust untuk tool yang butuh cepat, Py
 
 <div align="center">
 
-⭐ Dibuat dengan HTML, CSS, dan JavaScript — dan kopi.
+⭐ Built with HTML, CSS, and JavaScript — and coffee.
 
 </div>
