@@ -10,11 +10,7 @@
 
 </div>
 
-```text
-~/andra $ whoami
-Andra — developer, terminal-first.
-Go, Rust, Python, TypeScript. Linux, Git, Cloudflare Workers.
-```
+Developer yang kerja terminal-first: Go dan Rust untuk tool yang butuh cepat, Python saat harus kelar hari itu, TypeScript untuk bot dan web. Nyaman di Linux, Git, dan Cloudflare Workers.
 
 ## 🛠 Stack
 
