@@ -29,3 +29,8 @@ Go, Rust, Python, TypeScript. Linux, Git, Cloudflare Workers.
 
 - Email: [contact@andraokta.xyz](mailto:contact@andraokta.xyz)
 - Web: [andraokta.xyz](https://andraokta.xyz)
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=draokta&show_icons=true&theme=dark)
+
